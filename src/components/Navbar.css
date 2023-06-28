@@ -1,0 +1,32 @@
+.navbar {
+    background-color: rgb(174, 3, 174);
+    padding: 10px;
+    color: white;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 50px;
+    box-shadow:3px 2px 12px 2px #28023e;
+  }
+  
+  .navbar-list {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar-item {
+    margin: 0 10px;
+  }
+  
+  .navbar-link {
+    text-decoration: none;
+    color: #fffcfc;
+    font-weight: bold;
+  }
+  
+  .navbar-link:hover {
+    color: #28023e;
+  }
+  

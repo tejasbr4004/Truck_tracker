@@ -1,0 +1,48 @@
+.cushead{
+    display: flex;
+    justify-content: center;
+    font-family: fantasy;
+    font-size: xx-large;
+    color: #420362;
+    margin-bottom: 20px;
+}
+.customer-list {
+    margin-top: 100px;
+  }
+  
+  .customer-list h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .customer-list-items {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .customer-item {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    margin-bottom: 20px;
+    box-shadow: 6px 5px 10px -5px #28023e;
+  }
+  
+.customer-item:hover{
+ border: 2px solid #470247;
+}
+
+  .customer-name {
+    font-weight: bold;
+  }
+  
+  .customer-phone {
+    color: #555;
+  }
+  
+  .customer-location {
+    font-style: italic;
+    color: #919090;
+  }
+  

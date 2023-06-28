@@ -1,0 +1,12 @@
+.newmap{
+    margin: 20px;
+}
+
+.newmaphead{
+    display: flex;
+    justify-content: center;
+    font-family: fantasy;
+    font-size: xx-large;
+    color: #420362;
+    margin-bottom: 20px;
+}
